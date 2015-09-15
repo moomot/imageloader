@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_color">#000</color>
+    <color name="font_color">#fff</color>
+    <color name="btn_bg">#4CA1BD</color>
+    <color name="btn_focused_bg">#3C7E94</color>
+    <color name="field_bg">#EAEAEA</color>
+</resources>

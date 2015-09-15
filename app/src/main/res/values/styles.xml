@@ -1,0 +1,9 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:windowBackground">@color/bg_color</item>
+        <item name="android:editTextBackground">@color/font_color</item>
+    </style>
+
+</resources>
